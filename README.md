@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @akagramishra
+- 👀 I’m interested in ERP System designing and development
+- 🌱 I’m currently learning Machine Learning
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
