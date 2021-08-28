@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Cpython**
 
-- 👨‍💻 All of my projects are available at [https://github.com/akagramishra?tab=repositories](https://github.com/akagramishra?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/vijaydenzongpa?tab=repositories](https://github.com/akagramishra?tab=repositories)
 
 - 📝 I regularly write articles on [https://blogswoop.cf](https://blogswoop.cf)
 
