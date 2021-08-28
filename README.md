@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vijay Denzongpa</h1>
+<h1 align="center">Hi 👋, I'm Akagra Mishra</h1>
 <h3 align="center">A passionate frontend & Backend developer from India</h3>
 
 - 🔭 I’m currently working on **ERP Project**
@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Cpython**
 
-- 👨‍💻 All of my projects are available at [https://github.com/vijaydenzongpa?tab=repositories](https://github.com/akagramishra?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/akagramishra?tab=repositories](https://github.com/akagramishra?tab=repositories)
 
 - 📝 I regularly write articles on [https://blogswoop.cf](https://blogswoop.cf)
 
@@ -15,15 +15,15 @@
 
 - 📫 How to reach me **contact@swoop.cf**
 
-- 📄 Know about my experiences [https://search.techzgamecoding.ml](https://akagramishra.swoop.cf)
+- 📄 Know about my experiences [https://akagramishra.me](https://akagramishra.me)
 
 - ⚡ Fun fact **I am immortal**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akagra_mishra" height="30" width="40" /></a>
-<a href="https://fb.com/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akagra.mishra.9" height="30" width="40" /></a>
-<a href="https://instagram.com/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akagra_mishra" height="30" width="40" /></a>
+<a href="https://twitter.com/akagra_mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akagra_mishra" height="30" width="40" /></a>
+<a href="https://fb.com/akagra.mishra.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akagra.mishra.9" height="30" width="40" /></a>
+<a href="https://instagram.com/akagra_mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akagra_mishra" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/techz gamecoding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="techz gamecoding" height="30" width="40" /></a>
 </p>
 
