@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akagra Mishra</h1>
+<h1 align="center">Hi 👋, I'm Vijay Denzongpa</h1>
 <h3 align="center">A passionate frontend & Backend developer from India</h3>
 
 - 🔭 I’m currently working on **ERP Project**
