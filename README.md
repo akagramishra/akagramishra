@@ -13,17 +13,17 @@
 
 - 💬 Ask me about **ReactJS, Python, C++ and Java**
 
-- 📫 How to reach me **akagramishra@swoop.cf**
+- 📫 How to reach me **contact@swoop.cf**
 
-- 📄 Know about my experiences [https://akagramishra.swoop.cf](https://akagramishra.swoop.cf)
+- 📄 Know about my experiences [https://search.techzgamecoding.ml](https://akagramishra.swoop.cf)
 
 - ⚡ Fun fact **I am immortal**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/akagra_mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akagra_mishra" height="30" width="40" /></a>
-<a href="https://fb.com/akagra.mishra.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akagra.mishra.9" height="30" width="40" /></a>
-<a href="https://instagram.com/akagra_mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akagra_mishra" height="30" width="40" /></a>
+<a href="https://twitter.com/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akagra_mishra" height="30" width="40" /></a>
+<a href="https://fb.com/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akagra.mishra.9" height="30" width="40" /></a>
+<a href="https://instagram.com/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akagra_mishra" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/techz gamecoding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="techz gamecoding" height="30" width="40" /></a>
 </p>
 
