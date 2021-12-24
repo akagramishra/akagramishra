@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/akagramishra?tab=repositories](https://github.com/akagramishra?tab=repositories)
 
-- 📝 I regularly write articles on [https://blogswoop.cf](https://blogswoop.cf)
+- 📝 I regularly write articles on [https://worldaffairs-tech.blogspot.com/]https://worldaffairs-tech.blogspot.com/)
 
 - 💬 Ask me about **ReactJS, Python, C++ and Java**
 
